@@ -17,6 +17,6 @@ Este projeto contém a automação de testes funcionais para o site da Amazon Br
   ## 💡Como executar os testes
   Para executar este projeto na sua máquina, você precisará do Python instalado.
 
-  1. **Clone o repositório:**
+   1. **Clone o repositório:**
      bash
          git clone [https://github.com/AdrineVitoria/meu-projeto-amazon.git](https://github.com/AdrineVitoria/meu-projeto-amazon.git)

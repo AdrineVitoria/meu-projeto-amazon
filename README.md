@@ -19,4 +19,4 @@ Este projeto contém a automação de testes funcionais para o site da Amazon Br
 
   1. **Clone o repositório:**
      bash
-     git clone [https://github.com/AdrineVitoria/meu-projeto-amazon.git](https://github.com/AdrineVitoria/meu-projeto-amazon.git]
+     git clone [https://github.com/AdrineVitoria/meu-projeto-amazon.git](https://github.com/AdrineVitoria/meu-projeto-amazon.git)
